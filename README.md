@@ -1,7 +1,12 @@
 <div align="center">
-  ![wp4521294](https://github.com/codeaashu/C-Projects/assets/130897584/b518a2d6-7dd9-4912-a899-eae673b94865)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/C-Projects)
+  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/C-Projects?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/C-Projects?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=codeaashu)
 
 </div>
+  
 # C Programming Learning Repository
 
 Welcome to my C programming learning repository! This repository contains various programs and projects implemented in C to enhance programming skills.
