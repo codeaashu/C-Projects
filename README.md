@@ -7,15 +7,19 @@
 
 <br />
   <br />
+
+  <h1 align="center">C Programming Learning Repository</h1>
   
   <img src="./cover.jpg" />
 
-  <h2 align="center">C Programming Learning Repository</h2>
-</div>
+  <h2 align="center">C Programming Projects</h2>
 
 Welcome to my C programming learning repository! This repository contains various programs and projects implemented in C to enhance programming skills.
 
-## Programs
+
+<h2 align="center">Project Documentation</h2>
+
+</div>
 
 ### 1. Voting System
 
