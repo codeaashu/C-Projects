@@ -1,5 +1,6 @@
 <div align="center">
-  ![wp4521294](https://github.com/codeaashu/C-Projects/assets/130897584/405f81c1-9f62-4d28-ba4e-581d086876a3)
+  ![wp4521294](https://github.com/codeaashu/C-Projects/assets/130897584/b518a2d6-7dd9-4912-a899-eae673b94865)
+
 </div>
 # C Programming Learning Repository
 
