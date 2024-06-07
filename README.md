@@ -24,7 +24,12 @@ Welcome to my C programming learning repository! This repository contains variou
 - Description: A program to simulate a voting system.
 - Blog Post: [Voting System](https://codeaashu.hashnode.dev/building-a-voting-system-in-c)
 
+### 2. Student Grade System
+
 Description: A program to track and manage student grades.
 - Blog Post: [Student Grade System](https://codeaashu.hashnode.dev/building-a-student-grade-tracker-in-c)
 
-  
+### 3. Snake Game
+
+- Description: Implementation of the classic Snake game.
+- Blog Post: [Snake Game Blog Post](https://codeaashu.hashnode.dev/creating-a-simple-snake-game-in-c)
