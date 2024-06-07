@@ -8,3 +8,8 @@ Welcome to my C programming learning repository! This repository contains variou
 
 - Description: A program to simulate a voting system.
 - Blog Post: [Voting System](https://codeaashu.hashnode.dev/building-a-voting-system-in-c)
+
+Description: A program to track and manage student grades.
+- Blog Post: [Student Grade System Blog Post](https://codeaashu.hashnode.dev/building-a-student-grade-tracker-in-c)
+
+  
