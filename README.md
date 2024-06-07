@@ -42,7 +42,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 5. Number Guessing Game
 
 - Description: A simple number guessing game.
-- Blog Post: [Number Guessing Game Blog Post](https://sudeep449.hashnode.dev/building-a-number-guessing-game-in-c)
+- Blog Post: [Number Guessing Game](https://codeaashu.hashnode.dev/building-a-number-guessing-game-in-c)
 
 ### 6. Library Management System
 
