@@ -15,7 +15,8 @@
 Welcome to my C programming learning repository! This repository contains various programs and projects implemented in C to enhance programming skills.
 
 </div>
-##
+
+## 
 ## Project Documentation
 
 ### 1. Voting System
