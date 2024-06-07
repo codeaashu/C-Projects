@@ -37,4 +37,4 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 4. OTP Login System
 
 - Description: A secure login system using OTP authentication.
-- Blog Post: [OTP Login System Blog Post](https://codeaashu.hashnode.dev/building-an-otp-based-login-system-in-c)
+- Blog Post: [OTP Login System](https://codeaashu.hashnode.dev/building-an-otp-based-login-system-in-c)
