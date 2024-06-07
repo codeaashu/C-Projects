@@ -32,4 +32,4 @@ Description: A program to track and manage student grades.
 ### 3. Snake Game
 
 - Description: Implementation of the classic Snake game.
-- Blog Post: [Snake Game Blog Post](https://codeaashu.hashnode.dev/creating-a-simple-snake-game-in-c)
+- Blog Post: [Snake Game](https://codeaashu.hashnode.dev/creating-a-simple-snake-game-in-c)
