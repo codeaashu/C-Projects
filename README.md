@@ -5,9 +5,13 @@
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/C-Projects?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=codeaashu)
 
-</div>
+<br />
+  <br />
   
-# C Programming Learning Repository
+  <img src="./cover.jpg" />
+
+  <h2 align="center">C Programming Learning Repository</h2>
+</div>
 
 Welcome to my C programming learning repository! This repository contains various programs and projects implemented in C to enhance programming skills.
 
