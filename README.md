@@ -33,3 +33,8 @@ Welcome to my C programming learning repository! This repository contains variou
 
 - Description: Implementation of the classic Snake game.
 - Blog Post: [Snake Game](https://codeaashu.hashnode.dev/creating-a-simple-snake-game-in-c)
+
+### 4. OTP Login System
+
+- Description: A secure login system using OTP authentication.
+- Blog Post: [OTP Login System Blog Post](https://codeaashu.hashnode.dev/building-an-otp-based-login-system-in-c)
