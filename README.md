@@ -47,7 +47,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 6. Library Management System
 
 - Description: A program to manage library resources.
-- Blog Post: [Library Management System Blog Post](https://sudeep449.hashnode.dev/building-a-library-management-system-in-c)
+- Blog Post: [Library Management System](https://codeaashu.hashnode.dev/building-a-library-management-system-in-c)
 
 ### 7. File Compression Utility
 
