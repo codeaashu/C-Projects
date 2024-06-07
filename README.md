@@ -16,7 +16,7 @@ Welcome to my C programming learning repository! This repository contains variou
 
 </div>
 
-<h2 align="center">Project Documentation</h2>
+## Project Documentation
 
 ### 1. Voting System
 
