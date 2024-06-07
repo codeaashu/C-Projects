@@ -26,7 +26,7 @@ Welcome to my C programming learning repository! This repository contains variou
 
 ### 2. Student Grade System
 
-Description: A program to track and manage student grades.
+- Description: A program to track and manage student grades.
 - Blog Post: [Student Grade System](https://codeaashu.hashnode.dev/building-a-student-grade-tracker-in-c)
 
 ### 3. Snake Game
