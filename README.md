@@ -6,8 +6,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=codeaashu)
 
 <br />
-  <br />
-
   <h1 align="center">C Programming Learning Repository</h1>
   
   <img src="./cover.jpg" />
