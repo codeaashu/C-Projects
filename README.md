@@ -62,7 +62,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 9. Banking Management System
 
 - Description: A program to manage banking operations like account creation, transactions, etc.
-- Blog Post: [Banking Management System Blog Post](https://sudeep449.hashnode.dev/title-building-a-basic-banking-system-in-c)
+- Blog Post: [Banking Management System](https://codeaashu.hashnode.dev/building-a-basic-banking-system-in-c)
 
 ### 10. Authentication System
 
