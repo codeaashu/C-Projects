@@ -52,7 +52,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 7. File Compression Utility
 
 - Description: Implementation of a file compression utility using algorithms like Huffman coding or Run-Length Encoding.
-- Blog Post: [File Compression Utility Blog Post](https://sudeep449.hashnode.dev/understanding-huffman-coding-in-c)
+- Blog Post: [File Compression Utility](https://codeaashu.hashnode.dev/understanding-huffman-coding-in-c)
 
 ### 8. DBMS Software
 
