@@ -57,7 +57,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 8. DBMS Software
 
 - Description: A basic database management system.
-- Blog Post: [DBMS Software Blog Post](https://sudeep449.hashnode.dev/simple-database-management-in-c)
+- Blog Post: [DBMS Software](https://codeaashu.hashnode.dev/simple-database-management-in-c)
 
 ### 9. Banking Management System
 
