@@ -67,7 +67,7 @@ Welcome to my C programming learning repository! This repository contains variou
 ### 10. Authentication System
 
 - Description: A user authentication system.
-- Blog Post: [Authentication System Blog Post](https://sudeep449.hashnode.dev/basic-user-authentication-system-in-c)
+- Blog Post: [Authentication System](https://codeaashu.hashnode.dev/basic-user-authentication-system-in-c)
 
 ## Usage
 
