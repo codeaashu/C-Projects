@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/C-Projects)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/C-Projects?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/C-Projects?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=codeaashu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <br />
   <h1 align="center">C Programming Learning Repository</h1>
