@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/C-Projects)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/C-Projects?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/C-Projects?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
 <br />
   <h1 align="center">C Programming Learning Repository</h1>
@@ -72,3 +72,14 @@ Welcome to my C programming learning repository! This repository contains variou
 ## Usage
 
 To run these programs, you can compile them using a C compiler like GCC and execute the generated binaries.
+
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
+
